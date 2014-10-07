@@ -1,1 +1,17 @@
-{badk:sss}
+body {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-size: 12px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	-webkit-text-size-adjust: none;
+	font-family: "微软雅黑", Helvetica, Arial, sans-serif;
+	background-color: #000000;
+	/*overflow-x: hidden;
+	 overflow-y: hidden;
+	 /*color:#F7F7F7;*/
+}
