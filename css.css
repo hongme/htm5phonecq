@@ -15,3 +15,8 @@ body {
 	 overflow-y: hidden;
 	 /*color:#F7F7F7;*/
 }
+ul, li {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
